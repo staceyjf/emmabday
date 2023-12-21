@@ -1,13 +1,13 @@
 body {
     margin: 100px;
-    background: #5c141e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #e16124;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* card */
 .card {
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     margin: 0 auto;
     position: relative;
     perspective: 1400px;
