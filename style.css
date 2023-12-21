@@ -122,6 +122,7 @@ iframe {
 
     .card {
         width: 100%; 
+        height: auto; 
     }
 
     .right-card {
@@ -152,5 +153,10 @@ iframe {
         opacity: 0;
         pointer-events: none; 
         transition: opacity 2s;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto; /* Maintain aspect ratio */
     }
 }
