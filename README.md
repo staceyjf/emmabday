@@ -6,5 +6,5 @@
 
 </div>
 
-Check out the deployed site at: 
+Check out the deployed site at: https://staceyjf.github.io/emmabday/
 
