@@ -127,7 +127,7 @@ iframe {
     .right-card {
         /* height: 100%; */
         display: none;
-        background: #e16124;
+        background: #5c141e;
         box-shadow: none;
     }
 
@@ -154,13 +154,12 @@ iframe {
         transition: opacity 2s;
     }
 
-    img iframe {
+    img {
         max-width: 100%;
-        height: auto; 
+    }
+
+    iframe {
+        max-width: 100%;
     }
     
-    img  {
-        max-width: 100%;
-        height: auto; 
-    }
 }
