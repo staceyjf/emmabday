@@ -6,5 +6,5 @@
 
 </div>
 
-Check out the deployed site at: emma.staceyfanner.com
+Check out the deployed site at: https://emma.staceyfanner.com
 
