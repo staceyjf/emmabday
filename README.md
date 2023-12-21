@@ -1,6 +1,4 @@
-# Festive Holiday Card
-
-A delightful festive holiday card to spread joy and warmth during the holiday season.
+# Fun play around for a friend's milestone bday
 
 <div align="center">
 
@@ -8,6 +6,5 @@ A delightful festive holiday card to spread joy and warmth during the holiday se
 
 </div>
 
-Check out the deployed site at: https://staceyjf.github.io/Chrissy23/
-
+Check out the deployed site at: 
 

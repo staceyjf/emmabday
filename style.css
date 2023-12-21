@@ -6,8 +6,8 @@ body {
 
 /* card */
 .card {
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     margin: 0 auto;
     position: relative;
     perspective: 1400px;
@@ -27,6 +27,13 @@ body {
     transition: transform 1s;
     transform-style: preserve-3d;
     transform-origin: 0 0;
+}
+
+img {
+    position: relative;
+    z-index: 0; 
+    width: 100%;
+    height: 100%;
 }
 
 video {
